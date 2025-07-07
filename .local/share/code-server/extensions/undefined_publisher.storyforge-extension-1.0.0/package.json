@@ -1,0 +1,38 @@
+{
+	"name": "storyforge-extension",
+	"version": "1.0.0",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/jimdeane/storyforge"
+	},
+	"activationEvents": [
+		"onCommand:storyforge.helloWorld"
+	],
+	"contributes": {
+		"commands": [
+			{
+				"command": "storyforge.helloWorld",
+				"title": "StoryForge: Hello World"
+			}
+		]
+	},
+	"engines": {
+		"vscode": "1.101.2"
+	},
+	"description": "",
+	"main": "out/extension.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"@types/vscode": "^1.101.2"
+	},
+	"__metadata": {
+		"installedTimestamp": 1751879039472,
+		"targetPlatform": "undefined",
+		"size": 3018
+	}
+}

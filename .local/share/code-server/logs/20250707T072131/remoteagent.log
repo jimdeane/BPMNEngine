@@ -1,0 +1,47 @@
+2025-07-07 07:21:31.886 [info] 
+
+
+
+
+2025-07-07 07:21:31.892 [info] Extension host agent started.
+2025-07-07 07:21:43.520 [info] [192.168.0.155][a452c144][ManagementConnection] New connection established.
+2025-07-07 07:21:43.908 [info] ComputeTargetPlatform: linux-x64
+2025-07-07 07:21:44.162 [info] [192.168.0.155][bca2fada][ExtensionHostConnection] New connection established.
+2025-07-07 07:21:44.165 [info] [192.168.0.155][bca2fada][ExtensionHostConnection] <880> Launched Extension Host Process.
+2025-07-07 07:21:46.541 [info] ComputeTargetPlatform: linux-x64
+2025-07-07 07:22:31.942 [error] Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:216:20)
+2025-07-07 07:22:31.944 [info] [192.168.0.155][a452c144][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2025-07-07 07:22:48.710 [info] [192.168.0.155][a452c144][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2025-07-07 07:22:48.710 [info] [192.168.0.155][a452c144][ManagementConnection] The client has reconnected.
+2025-07-07 07:22:48.711 [info] [192.168.0.155][bca2fada][ExtensionHostConnection] The client has reconnected.
+2025-07-07 07:29:27.444 [error] Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:216:20)
+2025-07-07 07:29:27.445 [info] [192.168.0.155][a452c144][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2025-07-07 07:30:49.945 [info] [192.168.0.155][a452c144][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2025-07-07 07:30:49.945 [info] [192.168.0.155][bca2fada][ExtensionHostConnection] The client has reconnected.
+2025-07-07 07:30:49.954 [info] [192.168.0.155][a452c144][ManagementConnection] The client has reconnected.
+2025-07-07 07:37:35.145 [error] Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:216:20)
+2025-07-07 07:37:35.146 [info] [192.168.0.155][a452c144][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2025-07-07 08:35:52.476 [info] [192.168.0.155][a452c144][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2025-07-07 08:35:52.476 [info] [192.168.0.155][a452c144][ManagementConnection] The client has reconnected.
+2025-07-07 08:35:52.479 [info] [192.168.0.155][bca2fada][ExtensionHostConnection] The client has reconnected.
+2025-07-07 08:42:15.970 [error] Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:216:20)
+2025-07-07 08:42:15.972 [info] [192.168.0.155][a452c144][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2025-07-07 08:42:53.887 [info] [192.168.0.155][a452c144][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2025-07-07 08:42:53.888 [info] [192.168.0.161][ef932838][ManagementConnection] New connection established.
+2025-07-07 08:42:54.543 [info] [192.168.0.161][3e22254b][ExtensionHostConnection] New connection established.
+2025-07-07 08:42:54.548 [info] [192.168.0.161][3e22254b][ExtensionHostConnection] <18379> Launched Extension Host Process.
+2025-07-07 08:47:54.024 [info] [192.168.0.155][a452c144][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
+2025-07-07 08:47:54.174 [info] [192.168.0.155][bca2fada][ExtensionHostConnection] <880> Extension Host Process exited with code: 0, signal: null.
+2025-07-07 08:53:00.358 [info] Uninstalling extension from the profile: undefined_publisher.storyforge-extension@1.0.0 file:///home/coder/.local/share/code-server/extensions/extensions.json
+2025-07-07 08:53:00.364 [info] Successfully uninstalled extension from the profile undefined_publisher.storyforge-extension@1.0.0 file:///home/coder/.local/share/code-server/extensions/extensions.json
+2025-07-07 08:53:00.366 [info] Marked extension as removed undefined_publisher.storyforge-extension-1.0.0
+2025-07-07 09:01:18.919 [info] [192.168.0.161][ef932838][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-07-07 09:01:18.949 [info] [192.168.0.161][3e22254b][ExtensionHostConnection] <18379> Extension Host Process exited with code: 0, signal: null.
+2025-07-07 09:01:20.324 [info] [192.168.0.161][dd026de1][ManagementConnection] New connection established.
+2025-07-07 09:01:20.664 [info] [192.168.0.161][9df9d713][ExtensionHostConnection] New connection established.
+2025-07-07 09:01:20.667 [info] [192.168.0.161][9df9d713][ExtensionHostConnection] <24299> Launched Extension Host Process.
+2025-07-07 09:03:59.533 [info] Extensions added from another source undefined_publisher.storyforge-extension file:///home/coder/.local/share/code-server/extensions/extensions.json

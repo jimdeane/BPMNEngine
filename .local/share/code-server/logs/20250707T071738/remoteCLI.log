@@ -1,0 +1,7 @@
+2025-07-07 07:17:38.094 [info] Started initializing default profile extensions in extensions installation folder. file:///home/coder/.local/share/code-server/extensions
+2025-07-07 07:17:38.106 [info] ComputeTargetPlatform: linux-x64
+2025-07-07 07:17:38.120 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/coder/.local/share/code-server/extensions
+2025-07-07 07:17:38.131 [info] Installing extension: undefined_publisher.storyforge-extension {"isMachineScoped":false,"installPreReleaseVersion":false,"donotIncludePackAndDependencies":false,"installGivenVersion":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/coder/.local/share/code-server/extensions/extensions.json","external":"file:///home/coder/.local/share/code-server/extensions/extensions.json","path":"/home/coder/.local/share/code-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.101.2","date":"2025-06-25T19:47:36.189Z"}}
+2025-07-07 07:17:38.145 [info] Extracted extension to file:///home/coder/.local/share/code-server/extensions/undefined_publisher.storyforge-extension-1.0.0: undefined_publisher.storyforge-extension
+2025-07-07 07:17:38.146 [info] Renamed to /home/coder/.local/share/code-server/extensions/undefined_publisher.storyforge-extension-1.0.0
+2025-07-07 07:17:38.152 [info] Extension installed successfully: undefined_publisher.storyforge-extension file:///home/coder/.local/share/code-server/extensions/extensions.json

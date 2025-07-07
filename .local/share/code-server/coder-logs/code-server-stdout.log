@@ -1,0 +1,47 @@
+[2025-07-07T07:20:34.980Z] info  code-server 4.101.2 aff005e19626ac6802223713fa569e743c125725
+[2025-07-07T07:20:34.980Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2025-07-07T07:20:34.984Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2025-07-07T07:20:34.985Z] info  HTTP server listening on http://0.0.0.0:8080/
+[2025-07-07T07:20:34.985Z] info    - Authentication is enabled
+[2025-07-07T07:20:34.985Z] info      - Using password from $PASSWORD
+[2025-07-07T07:20:34.985Z] info    - Not serving HTTPS
+[2025-07-07T07:20:34.985Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[07:21:31] 
+
+
+
+
+[07:21:31] Extension host agent started.
+[07:21:43] [192.168.0.155][a452c144][ManagementConnection] New connection established.
+[07:21:43] ComputeTargetPlatform: linux-x64
+[07:21:44] [192.168.0.155][bca2fada][ExtensionHostConnection] New connection established.
+[07:21:44] [192.168.0.155][bca2fada][ExtensionHostConnection] <880> Launched Extension Host Process.
+[07:21:46] ComputeTargetPlatform: linux-x64
+[07:22:31] [192.168.0.155][a452c144][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[07:22:48] [192.168.0.155][a452c144][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[07:22:48] [192.168.0.155][a452c144][ManagementConnection] The client has reconnected.
+[07:22:48] [192.168.0.155][bca2fada][ExtensionHostConnection] The client has reconnected.
+[07:29:27] [192.168.0.155][a452c144][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[07:30:49] [192.168.0.155][a452c144][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[07:30:49] [192.168.0.155][bca2fada][ExtensionHostConnection] The client has reconnected.
+[07:30:49] [192.168.0.155][a452c144][ManagementConnection] The client has reconnected.
+[07:37:35] [192.168.0.155][a452c144][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[08:35:52] [192.168.0.155][a452c144][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[08:35:52] [192.168.0.155][a452c144][ManagementConnection] The client has reconnected.
+[08:35:52] [192.168.0.155][bca2fada][ExtensionHostConnection] The client has reconnected.
+[08:42:15] [192.168.0.155][a452c144][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[08:42:53] [192.168.0.155][a452c144][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[08:42:53] [192.168.0.161][ef932838][ManagementConnection] New connection established.
+[08:42:54] [192.168.0.161][3e22254b][ExtensionHostConnection] New connection established.
+[08:42:54] [192.168.0.161][3e22254b][ExtensionHostConnection] <18379> Launched Extension Host Process.
+[08:47:54] [192.168.0.155][a452c144][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
+[08:47:54] [192.168.0.155][bca2fada][ExtensionHostConnection] <880> Extension Host Process exited with code: 0, signal: null.
+[08:53:00] Uninstalling extension from the profile: undefined_publisher.storyforge-extension@1.0.0 file:///home/coder/.local/share/code-server/extensions/extensions.json
+[08:53:00] Successfully uninstalled extension from the profile undefined_publisher.storyforge-extension@1.0.0 file:///home/coder/.local/share/code-server/extensions/extensions.json
+[08:53:00] Marked extension as removed undefined_publisher.storyforge-extension-1.0.0
+[09:01:18] [192.168.0.161][ef932838][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[09:01:18] [192.168.0.161][3e22254b][ExtensionHostConnection] <18379> Extension Host Process exited with code: 0, signal: null.
+[09:01:20] [192.168.0.161][dd026de1][ManagementConnection] New connection established.
+[09:01:20] [192.168.0.161][9df9d713][ExtensionHostConnection] New connection established.
+[09:01:20] [192.168.0.161][9df9d713][ExtensionHostConnection] <24299> Launched Extension Host Process.
+[09:03:59] Extensions added from another source undefined_publisher.storyforge-extension file:///home/coder/.local/share/code-server/extensions/extensions.json

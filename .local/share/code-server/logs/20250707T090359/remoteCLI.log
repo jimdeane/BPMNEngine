@@ -1,0 +1,8 @@
+2025-07-07 09:03:59.440 [info] ComputeTargetPlatform: linux-x64
+2025-07-07 09:03:59.454 [info] Marked extension as removed undefined_publisher.storyforge-extension-1.0.0
+2025-07-07 09:03:59.457 [info] Installing extension: undefined_publisher.storyforge-extension {"isMachineScoped":false,"installPreReleaseVersion":false,"donotIncludePackAndDependencies":false,"installGivenVersion":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/coder/.local/share/code-server/extensions/extensions.json","external":"file:///home/coder/.local/share/code-server/extensions/extensions.json","path":"/home/coder/.local/share/code-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.101.2","date":"2025-06-25T19:47:36.189Z"}}
+2025-07-07 09:03:59.465 [info] Removed the extension from removed list: undefined_publisher.storyforge-extension
+2025-07-07 09:03:59.469 [info] Deleted existing extension from disk undefined_publisher.storyforge-extension /home/coder/.local/share/code-server/extensions/undefined_publisher.storyforge-extension-1.0.0
+2025-07-07 09:03:59.472 [info] Extracted extension to file:///home/coder/.local/share/code-server/extensions/undefined_publisher.storyforge-extension-1.0.0: undefined_publisher.storyforge-extension
+2025-07-07 09:03:59.473 [info] Renamed to /home/coder/.local/share/code-server/extensions/undefined_publisher.storyforge-extension-1.0.0
+2025-07-07 09:03:59.479 [info] Extension installed successfully: undefined_publisher.storyforge-extension file:///home/coder/.local/share/code-server/extensions/extensions.json
