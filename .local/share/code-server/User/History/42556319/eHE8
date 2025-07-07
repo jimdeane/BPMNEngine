@@ -1,0 +1,72 @@
+init
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   .bash_logout
+#	new file:   .bashrc
+#	new file:   .cache/Microsoft/DeveloperTools/deviceid
+#	new file:   .cache/typescript/5.8/package.json
+#	new file:   .config/code-server/config.yaml
+#	new file:   .local/share/code-server/CachedProfilesData/__default__profile__/extensions.builtin.cache
+#	new file:   .local/share/code-server/User/caches/CachedConfigurations/folder/2637d2d7/configuration.json
+#	new file:   .local/share/code-server/User/customBuiltinExtensionsCache.json
+#	new file:   .local/share/code-server/User/globalStorage/vscode.json-language-features/json-schema-cache/128b6dd2f11e6592c6cb0ea73c38098390abf549ced913a000723040194d2f11.schema.json
+#	new file:   .local/share/code-server/User/globalStorage/vscode.json-language-features/json-schema-cache/627b02c06c80b1d555110746a5368b5f289254e538467518098dc232940583e3.schema.json
+#	new file:   .local/share/code-server/User/globalStorage/vscode.json-language-features/json-schema-cache/7b5173700055d521384dc9a8e82c417d38a59dd3f2de0522b44bd8bd5f122ef8.schema.json
+#	new file:   .local/share/code-server/User/globalStorage/vscode.json-language-features/json-schema-cache/90cc4f8e4cdbc367d258b4b4429d5f3980494db8ccc7a20713a9ec9c0b9ff706.schema.json
+#	new file:   .local/share/code-server/User/globalStorage/vscode.json-language-features/json-schema-cache/985546d2bcb1d8c97c4d90ea3fad773bfe2dfc37627394450ecf8f849ea32f03.schema.json
+#	new file:   .local/share/code-server/User/globalStorage/vscode.json-language-features/json-schema-cache/a33dcae29d91b896b60d8f7e24c56631b9381e852c8324f547bd575623d3c297.schema.json
+#	new file:   .local/share/code-server/User/globalStorage/vscode.json-language-features/json-schema-cache/b69666327bdc7329194757336b7fa467c1e7474003fa413ff8021dfa9eba5803.schema.json
+#	new file:   .local/share/code-server/User/globalStorage/vscode.json-language-features/json-schema-cache/ba3ad3729ddf96be4d13a7c3a8399ae3aa028415668d3e53f98e85de3712e21b.schema.json
+#	new file:   .local/share/code-server/User/machineid
+#	new file:   .local/share/code-server/User/systemExtensionsCache.json
+#	new file:   .local/share/code-server/User/workspaceStorage/1c2cc80e/vscode.lock
+#	new file:   .local/share/code-server/coder-logs/code-server-stderr.log
+#	new file:   .local/share/code-server/coder-logs/code-server-stdout.log
+#	new file:   .local/share/code-server/coder.json
+#	new file:   .local/share/code-server/extensions/extensions.json
+#	new file:   .local/share/code-server/extensions/undefined_publisher.storyforge-extension-1.0.0/.vsixmanifest
+#	new file:   .local/share/code-server/extensions/undefined_publisher.storyforge-extension-1.0.0/out/extension.js
+#	new file:   .local/share/code-server/extensions/undefined_publisher.storyforge-extension-1.0.0/package.json
+#	new file:   .local/share/code-server/heartbeat
+#	new file:   .local/share/code-server/languagepacks.json
+#	new file:   .local/share/code-server/logs/20250707T071738/remoteCLI.log
+#	new file:   .local/share/code-server/logs/20250707T072131/exthost1/remoteExtHostTelemetry.log
+#	new file:   .local/share/code-server/logs/20250707T072131/exthost1/remoteexthost.log
+#	new file:   .local/share/code-server/logs/20250707T072131/exthost1/vscode.git/Git.log
+#	new file:   .local/share/code-server/logs/20250707T072131/exthost1/vscode.github/GitHub.log
+#	new file:   .local/share/code-server/logs/20250707T072131/exthost1/vscode.json-language-features/JSON Language Server.log
+#	new file:   .local/share/code-server/logs/20250707T072131/exthost1/vscode.typescript-language-features/TypeScript.log
+#	new file:   .local/share/code-server/logs/20250707T072131/exthost2/remoteExtHostTelemetry.log
+#	new file:   .local/share/code-server/logs/20250707T072131/exthost2/remoteexthost.log
+#	new file:   .local/share/code-server/logs/20250707T072131/exthost2/vscode.git/Git.log
+#	new file:   .local/share/code-server/logs/20250707T072131/exthost2/vscode.github/GitHub.log
+#	new file:   .local/share/code-server/logs/20250707T072131/exthost2/vscode.json-language-features/JSON Language Server.log
+#	new file:   .local/share/code-server/logs/20250707T072131/exthost2/vscode.typescript-language-features/TypeScript.log
+#	new file:   .local/share/code-server/logs/20250707T072131/exthost3/remoteExtHostTelemetry.log
+#	new file:   .local/share/code-server/logs/20250707T072131/exthost3/remoteexthost.log
+#	new file:   .local/share/code-server/logs/20250707T072131/exthost3/vscode.git/Git.log
+#	new file:   .local/share/code-server/logs/20250707T072131/exthost3/vscode.github/GitHub.log
+#	new file:   .local/share/code-server/logs/20250707T072131/ptyhost.log
+#	new file:   .local/share/code-server/logs/20250707T072131/remoteTelemetry.log
+#	new file:   .local/share/code-server/logs/20250707T072131/remoteagent.log
+#	new file:   .local/share/code-server/logs/20250707T090359/remoteCLI.log
+#	new file:   .local/share/code-server/machineid
+#	new file:   .profile
+#
+# Changes not staged for commit:
+#	modified:   .local/share/code-server/logs/20250707T072131/exthost3/remoteexthost.log
+#	modified:   .local/share/code-server/logs/20250707T072131/exthost3/vscode.git/Git.log
+#
+# Untracked files:
+#	.gitconfig
+#	.local/share/code-server/User/History/
+#	.local/share/code-server/User/settings.json
+#	.local/share/code-server/logs/20250707T072131/exthost3/vscode.github-authentication/
+#	.local/share/code-server/logs/20250707T072131/exthost3/vscode.json-language-features/
+#

@@ -8,3 +8,7 @@
 2025-07-07 09:01:21.129 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
 2025-07-07 09:01:35.414 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
 2025-07-07 09:04:23.004 [info] ExtensionService#_doActivateExtension undefined_publisher.storyforge-extension, startup: false, activationEvent: 'onCommand:storyforge.helloWorld'
+2025-07-07 09:07:20.880 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-07-07 09:07:20.880 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-07-07 09:07:20.880 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-07-07 09:08:23.663 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
