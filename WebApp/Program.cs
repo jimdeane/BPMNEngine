@@ -12,10 +12,7 @@ builder.Services.AddSwaggerGen();
 
 // Add BPMN and scheduling services
 builder.Services.AddSingleton<BPMNService>();
-builder.Services.AddQuartz(q =>
-{
-    q.UseMicrosoftDependencyInjection();
-});
+builder.Services.AddQuartz();
 builder.Services.AddQuartzHostedService(q => q.WaitForJobsToComplete = true);
 
 var app = builder.Build();
