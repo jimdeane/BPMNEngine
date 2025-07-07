@@ -1,4 +1,4 @@
-modules = ["dotnet-7.0", "nodejs-20"]
+modules = ["dotnet-7.0", "nodejs-20", "dotnet-8.0"]
 run = "dotnet run"
 
 [nix]
@@ -6,3 +6,15 @@ channel = "stable-24_05"
 
 [deployment]
 run = ["sh", "-c", "dotnet run"]
+
+[workflows]
+runButton = "Run WebApp"
+
+[[workflows.workflow]]
+name = "Run WebApp"
+author = 1003783
+mode = "sequential"
+
+[[workflows.workflow.tasks]]
+task = "shell.exec"
+args = "cd WebApp && dotnet run"
