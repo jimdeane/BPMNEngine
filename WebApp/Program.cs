@@ -156,4 +156,4 @@ app.MapGet("/", () => Results.Content("""
 </html>
 """, "text/html"));
 
-app.Run("0.0.0.0:5000");
+app.Run("http://0.0.0.0:5000");
